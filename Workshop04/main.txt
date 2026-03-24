@@ -9,7 +9,7 @@ Psuedo code starts below:
 // Instantiate high level and set clock frequency
 set CLOCK to 50 Hz
 
-<< polling task code >> // polling task completed by ellie
+<< fixed polling loop >> // polling task completed by ellie and updated by ellie in polling_fix feature
 
 // TODO: Aaron to fix polling task, please delete this comment when fixed
 
